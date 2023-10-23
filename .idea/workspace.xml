@@ -1,14 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f59e7e5f-7b1c-4025-bd30-3b04312af9f0" name="Changes" comment="" />
+    <list default="true" id="f59e7e5f-7b1c-4025-bd30-3b04312af9f0" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/src/CCompar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWORK/Consumers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWORK/Functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWORK/Hundred.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWORK/Predicat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWORK/Suppliers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Wqyv3DmBxeomgskTSZlFsi6FMR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,9 +41,86 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/TeachMeSkills/HomWork_14"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Suppliers">
+    <configuration name="Consumers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWORK.Consumers" />
+      <module name="HomWork_14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWORK.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWORK.Functions" />
+      <module name="HomWork_14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWORK.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hundred" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWORK.Hundred" />
+      <module name="HomWork_14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWORK.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Predicat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWORK.Predicat" />
+      <module name="HomWork_14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWORK.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Suppliers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWORK.Suppliers" />
+      <module name="HomWork_14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWORK.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Suppliers" />
+        <item itemvalue="Application.Consumers" />
+        <item itemvalue="Application.Functions" />
+        <item itemvalue="Application.Predicat" />
+        <item itemvalue="Application.Hundred" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,7 +129,39 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697474634052</updated>
+      <workItem from="1697474635641" duration="2594000" />
+      <workItem from="1697489375926" duration="6118000" />
+      <workItem from="1697521681428" duration="2202000" />
+      <workItem from="1697731310619" duration="294000" />
+      <workItem from="1697789370881" duration="113000" />
+      <workItem from="1698050615818" duration="6705000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1697474665341</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697474665341</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>
