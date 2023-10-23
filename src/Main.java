@@ -16,8 +16,8 @@ public class Main {
         System.out.print("Введите дату в формате ГГГГ-ММ-ДД: ");
         String dateStr = scanner.nextLine();
 
-        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd");
-        LocalDate date = LocalDate.parse(dateStr, formatter);
+     //   DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd");
+        LocalDate date = LocalDate.parse(dateStr);
         DayOfWeek dayOfWeek = date.getDayOfWeek();
         String dayOfWeekStr = dayOfWeek.toString();
 
@@ -27,7 +27,7 @@ public class Main {
         //Написать программу для вывода на экран дату следующего вторника
         // DateTimeFormatter formatter1 = new DateTimeFormatter.(-10-10);
         String tuesday = "2023-10-10";
-        LocalDate date1 = LocalDate.parse(tuesday, formatter);
+        LocalDate date1 = LocalDate.parse(tuesday);
         date1 = date1.plusDays(7);
         System.out.println("Дата следующего вторника: " + date1);
 
