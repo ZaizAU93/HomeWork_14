@@ -13,13 +13,11 @@ public class Consumers {
     Scanner scanner = new Scanner(System.in);
     System.out.println("¬еедите колличестве белорусских рублей");
     String line = scanner.nextLine() + " BYN";
-    Function<String, Double> dollars_convert = x -> {
-        String[] masDollSplit = x.split(" ");
-        return Double.parseDouble(masDollSplit[0]);
-    };
 
-    Consumer<String> output = x -> System.out.println(line +" = "+dollars_convert.apply(line)/3.28+" USD");
-    output.accept(line);
+        Consumer <String> output = x -> {
+        String[] masDollSplit = x.split(" ");
+         System.out.println(line +" = "+ Double.parseDouble(masDollSplit[0])/3.28+" USD");
+        };
 
     }
 }

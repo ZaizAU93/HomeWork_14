@@ -12,11 +12,11 @@ public class Predicat {
         //»спользу€ Predicate среди массива чисел вывести только те, которые €вл€ютс€
         //положительными.
 
-
-        ArrayList<Double> mas = new ArrayList<>(Arrays.asList(2.3, 2.4, -2.5, -1.0, 3.2, -4.0, 0.0));
+        Double[] mas = {2.3, 2.4, -2.5, -1.0, 3.2, -4.0, 0.0};
+        //ArrayList<Double> mas = new ArrayList<>(Arrays.asList(2.3, 2.4, -2.5, -1.0, 3.2, -4.0, 0.0));
 
         Predicate <Double> isposutuveNumber = x -> x > 0;
-        mas.stream().filter(isposutuveNumber)
+        Arrays.stream(mas).filter(isposutuveNumber)
                 .forEach(value -> System.out.println(value));
 
     }

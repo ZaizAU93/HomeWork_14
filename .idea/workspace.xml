@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f59e7e5f-7b1c-4025-bd30-3b04312af9f0" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/CCompar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWORK/Consumers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWORK/Functions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWORK/Hundred.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWORK/Predicat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWORK/Suppliers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IShape.java" afterDir="false" />
+    <list default="true" id="f59e7e5f-7b1c-4025-bd30-3b04312af9f0" name="Changes" comment="1.1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWORK/Consumers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWORK/Consumers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +39,7 @@
     "last_opened_file_path": "E:/TeachMeSkills/HomWork_14"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Suppliers">
+  <component name="RunManager" selected="Application.Consumers">
     <configuration name="Consumers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWORK.Consumers" />
       <module name="HomWork_14" />
@@ -113,8 +107,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Suppliers" />
         <item itemvalue="Application.Consumers" />
+        <item itemvalue="Application.Suppliers" />
         <item itemvalue="Application.Functions" />
         <item itemvalue="Application.Predicat" />
         <item itemvalue="Application.Hundred" />
@@ -134,7 +128,7 @@
       <workItem from="1697521681428" duration="2202000" />
       <workItem from="1697731310619" duration="294000" />
       <workItem from="1697789370881" duration="113000" />
-      <workItem from="1698050615818" duration="6705000" />
+      <workItem from="1698050615818" duration="7931000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1697474665341</created>
@@ -143,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697474665341</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1.1">
+      <created>1698059688513</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698059688513</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +163,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.1" />
   </component>
 </project>
